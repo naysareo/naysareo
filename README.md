@@ -1,7 +1,25 @@
 # Welcome! 👋
 
 ![Demo GIF](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
-<img src="https://github.com/твоя_учётка/твой_репозиторий/raw/main/header-wave.svg" alt="animated header" width="100%" />
+<svg width="100%" height="150px" viewBox="0 0 100 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#ffffff00" />
+      <stop offset="100%" stop-color="#ffffff11" />
+    </linearGradient>
+  </defs>
+  <path d="M0 0 Q 25 10, 50 0 T 100 0 V100 H0 Z" fill="url(#grad)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0 0 Q 25 10, 50 0 T 100 0 V100 H0 Z;
+        M0 0 Q 25 5, 50 0 T 100 0 V100 H0 Z;
+        M0 0 Q 25 10, 50 0 T 100 0 V100 H0 Z
+      "
+    />
+  </path>
+</svg>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-updating-brightgreen" />
