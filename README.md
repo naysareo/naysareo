@@ -17,7 +17,7 @@
 
 <h2>About Me 🧑‍💻</h2>
 
-<p>Hello! I'm <strong>Naysayer</strong>, a 19 year old developer passionate about being a member of the global Python community. 🌍</p>
+<p>Hello! I'm <strong>Naysayer</strong>, a 19 year old Python developer who is always trying to get better. I do so by learning and practicing a lot. Python is awesome and always helpful, so getting merged actively into its community is something I enjoy. 🌍</p>
 
 <h3>A Little About Me:</h3>
 <ul>
