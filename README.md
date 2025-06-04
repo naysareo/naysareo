@@ -56,8 +56,8 @@
 
 
 <p>
-  <img src="github-readme-stats-c5md.vercel.app/api?username=naysareo&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="github-readme-stats-c5md.vercel.app/api?user=naysareo&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats-c5md.vercel.app/api?username=naysareo&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-stats-c5md.vercel.app/api?user=naysareo&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats-c5md.vercel.app/api/top-langs/?username=naysareo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
