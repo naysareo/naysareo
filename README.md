@@ -63,10 +63,6 @@
 # 📊 GitHub Stats:
 
 ---
-[![](https://visitcount.itsvg.in/api?id=naysareo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<hr>
 
 <p>
   <a href="https://visitcount.itsvg.in">
@@ -77,6 +73,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/naysareo/naysareo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile" />
 </p>
+
+---
 
 <h2>🎥 Interests</h2>
 
