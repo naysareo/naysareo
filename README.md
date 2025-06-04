@@ -64,12 +64,6 @@
 
 ---
 
-<p>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=naysareo&icon=0&color=0" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/naysareo/naysareo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile" />
 </p>
