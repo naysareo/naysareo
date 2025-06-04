@@ -49,7 +49,6 @@ Here are the technologies I work with:
 ---
 [![](https://visitcount.itsvg.in/api?id=naysareo&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
 ## 🎥 My Work & Interests
 
