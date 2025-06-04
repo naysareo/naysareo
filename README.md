@@ -21,8 +21,8 @@
 <h3>A Little About Me:</h3>
 <ul>
   <li>I have basic experience in building <strong>web applications</strong> and enjoy working on practical projects.</li>
-  <li>I enjoy helping people who are just starting to learn <strong>Python</strong> — sharing knowledge and making things easier to understand.</li>
-  <li>I like diving deep into both <strong>low-level concepts</strong> and internal processes — understanding how things work under the hood is fascinating to me.</li>
+  <li>I enjoy helping people who are just starting to learn <strong>Python</strong> - sharing knowledge and making things easier to understand.</li>
+  <li>I like diving deep into both <strong>low-level concepts</strong> and internal processes - understanding how things work under the hood is fascinating to me.</li>
   <li>In the long term, I want to master <strong>Rust</strong> and <strong>C++</strong> to expand my skills and take on new challenges. 💡</li>
 </ul>
 
