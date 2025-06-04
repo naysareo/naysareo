@@ -1,11 +1,13 @@
 # Welcome! 👋
 
 ![Demo GIF](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
-![status](https://img.shields.io/badge/status-updating-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.12-blueviolet)
-![contributors](https://img.shields.io/badge/contributors-2-blue)
-![Stars](https://img.shields.io/github/stars/naysareo?style=flat&label=Stars&logo=github)
-![visitors](https://komarev.com/ghpvc/?username=naysareo&label=visitors&color=blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-updating-brightgreen" />
+  <img src="https://img.shields.io/badge/Python-3.12-blueviolet" />
+  <img src="https://img.shields.io/badge/contributors-2-blue" />
+  <img src="https://img.shields.io/github/stars/naysareo?style=flat&label=Stars&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=naysareo&label=visitors&color=blue" />
+</p>
 
 ---
 
