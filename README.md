@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blueviolet)
 ![contributors](https://img.shields.io/badge/contributors-2-blue)
 ![Stars](https://img.shields.io/github/stars/naysareo?style=flat&label=Stars&logo=github)
-![Forks](https://img.shields.io/github/forks/naysareo?style=flat&label=Forks&logo=github)
 ![visitors](https://komarev.com/ghpvc/?username=naysareo&label=visitors&color=blue)
 
 ---
