@@ -32,7 +32,7 @@
 <h2>🌐 Connect With Me!</h2>
 
 <ul>
-  <li><a href="https://discordapp.com/users/naysayer_official"><strong>Discord</strong></a> 💬</li>
+  <li><a href="https://discord.com/users/1206232328091729981"><strong>Discord</strong></a> 💬</li>
   <li><a href="https://www.linkedin.com/in/arseny-zoryn/"><strong>LinkedIn</strong></a> 📈</li>
   <li><a href="mailto:arszoryn05@gmail.com"><strong>Email</strong></a> 📧</li>
 </ul>
