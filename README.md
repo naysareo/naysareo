@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-updating-brightgreen" />
   <img src="https://img.shields.io/badge/Python-3.12-blueviolet" />
   <img src="https://img.shields.io/badge/contributors-2-blue" />
   <img src="https://img.shields.io/github/stars/naysareo?style=flat&label=Stars&logo=github" />
