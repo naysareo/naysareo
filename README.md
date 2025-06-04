@@ -1,8 +1,25 @@
 <h1>Welcome! 👋</h1>
 
-<p align="center">
+<div align="center">
+  <h1 style="
+    opacity: 0;
+    animation: fadeIn 3s ease-in-out forwards;
+    font-size: 3em;
+    margin-bottom: 10px;
+  ">
+    Welcome! 👋
+  </h1>
+  
   <img src="https://applescoop.org/image/wallpapers/mac/minimalist-sunset-over-mountains-landscape-top-rated-most-downloaded-free-download-wallpapers-for-macbook-pro-and-macbook-air-and-microsoft-windows-desktop-pcs-4k-07-12-2024-1733638602-hd-wallpaper.webp" alt="Banner" />
-</p>
+</div>
+
+<!-- CSS animation (works outside GitHub, e.g. GitHub Pages or portfolio) -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-updating-brightgreen" />
