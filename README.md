@@ -50,7 +50,7 @@ Here are the technologies I work with:
 [![](https://visitcount.itsvg.in/api?id=naysareo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naysareo/naysareo/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Profile">
+  <img src="https://raw.githubusercontent.com/naysareo/naysareo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile">
 </p>
 
 ## 🎥 My Work & Interests
