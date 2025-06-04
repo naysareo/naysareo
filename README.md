@@ -67,6 +67,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/naysareo/naysareo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile" />
 </p>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
