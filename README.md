@@ -72,7 +72,7 @@
   <img src="https://raw.githubusercontent.com/naysareo/naysareo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile" />
 </p>
 
-<h2>🎥 My Work & Interests</h2>
+<h2>🎥 Interests</h2>
 
 <p>One of the projects that piqued my interest in the intersection of <strong>technology</strong> and <strong>storytelling</strong>:</p>
 
