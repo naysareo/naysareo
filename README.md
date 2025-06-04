@@ -1,25 +1,8 @@
-# Welcome! 👋
+<h1>Welcome! 👋</h1>
 
-![Demo GIF](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
-<svg width="100%" height="150px" viewBox="0 0 100 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" gradientTransform="rotate(90)">
-      <stop offset="0%" stop-color="#ffffff00" />
-      <stop offset="100%" stop-color="#ffffff11" />
-    </linearGradient>
-  </defs>
-  <path d="M0 0 Q 25 10, 50 0 T 100 0 V100 H0 Z" fill="url(#grad)">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="
-        M0 0 Q 25 10, 50 0 T 100 0 V100 H0 Z;
-        M0 0 Q 25 5, 50 0 T 100 0 V100 H0 Z;
-        M0 0 Q 25 10, 50 0 T 100 0 V100 H0 Z
-      "
-    />
-  </path>
-</svg>
-
-
+<p align="center">
+  <img src="https://applescoop.org/image/wallpapers/mac/minimalist-sunset-over-mountains-landscape-top-rated-most-downloaded-free-download-wallpapers-for-macbook-pro-and-macbook-air-and-microsoft-windows-desktop-pcs-4k-07-12-2024-1733638602-hd-wallpaper.webp" alt="Banner" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-updating-brightgreen" />
@@ -29,61 +12,71 @@
   <img src="https://komarev.com/ghpvc/?username=naysareo&label=visitors&color=blue" />
 </p>
 
----
+<hr>
 
-## About Me 🧑‍💻
+<h2>About Me 🧑‍💻</h2>
 
-Hello! I'm **Naysayer**, a 19 year old developer about being a member of the global Python community. 🌍
+<p>Hello! I'm <strong>Naysayer</strong>, a 19 year old developer passionate about being a member of the global Python community. 🌍</p>
 
-### A Little About Me:
-- I have basic experience in building **web applications** and enjoy working on practical projects.  
-- I enjoy helping people who are just starting to learn **Python** — sharing knowledge and making things easier to understand.  
-- I like diving deep into both **low-level concepts** and internal processes — understanding how things work under the hood is fascinating to me.  
-- In the long term, I want to master **Rust** and **C++** to expand my skills and take on new challenges. 💡
+<h3>A Little About Me:</h3>
+<ul>
+  <li>I have basic experience in building <strong>web applications</strong> and enjoy working on practical projects.</li>
+  <li>I enjoy helping people who are just starting to learn <strong>Python</strong> — sharing knowledge and making things easier to understand.</li>
+  <li>I like diving deep into both <strong>low-level concepts</strong> and internal processes — understanding how things work under the hood is fascinating to me.</li>
+  <li>In the long term, I want to master <strong>Rust</strong> and <strong>C++</strong> to expand my skills and take on new challenges. 💡</li>
+</ul>
 
----
+<hr>
 
-## 🌐 Connect With Me!
+<h2>🌐 Connect With Me!</h2>
 
-Let's get in touch:
+<ul>
+  <li><a href="https://discordapp.com/users/naysayer_official"><strong>Discord</strong></a> 💬</li>
+  <li><a href="https://www.linkedin.com/in/arseny-zoryn/"><strong>LinkedIn</strong></a> 📈</li>
+  <li><a href="mailto:arszoryn05@gmail.com"><strong>Email</strong></a> 📧</li>
+</ul>
 
-- [**Discord**](https://discordapp.com/users/naysayer_official) 💬
-- [**LinkedIn**](https://www.linkedin.com/in/arseny-zoryn/) 📈
-- [**Email**](mailto:arszoryn05@gmail.com) 📧
+<hr>
 
----
+<h2>💻 My Tech Stack</h2>
 
-## 💻 My Tech Stack
-
-Here are the technologies I work with:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
----
-
-## 📊 Profile Stats
-
-![](https://github-readme-stats.vercel.app/api?username=naysareo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=naysareo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naysareo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=naysareo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naysareo/naysareo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile">
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 🎥 My Work & Interests
+<hr>
 
-One of the projects that piqued my interest in the intersection of **technology** and **storytelling**:
+<h2>📊 Profile Stats</h2>
 
-[![Watch the video](https://i.ytimg.com/vi/SC3C7GMMfDU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAaaPNlakG0k4MMFtAENc5d9a05Ug)](https://www.youtube.com/watch?v=SC3C7GMMfDU)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=naysareo&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=naysareo&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naysareo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
----
+<hr>
+
+<p>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=naysareo&icon=0&color=0" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naysareo/naysareo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile" />
+</p>
+
+<h2>🎥 My Work & Interests</h2>
+
+<p>One of the projects that piqued my interest in the intersection of <strong>technology</strong> and <strong>storytelling</strong>:</p>
+
+<a href="https://www.youtube.com/watch?v=SC3C7GMMfDU">
+  <img src="https://i.ytimg.com/vi/SC3C7GMMfDU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAaaPNlakG0k4MMFtAENc5d9a05Ug" alt="Watch the video" />
+</a>
+
+<hr>
