@@ -1,6 +1,8 @@
 # Welcome! 👋
 
 ![Demo GIF](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
+<img src="https://github.com/твоя_учётка/твой_репозиторий/raw/main/header-wave.svg" alt="animated header" width="100%" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/status-updating-brightgreen" />
   <img src="https://img.shields.io/badge/Python-3.12-blueviolet" />
