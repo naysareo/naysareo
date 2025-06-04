@@ -55,10 +55,9 @@
 <h2>📊 Profile Stats</h2>
 
 <p>
-  <img src="github-readme-stats-one-nu-92.vercel.app/api?username=naysareo&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="github-readme-stats-one-nu-92.vercel.app/?user=naysareo&theme=dark&hide_border=false" /><br/>
-  <img src="github-readme-stats-one-nu-92.vercel.app/api/top-langs/?username=naysareo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
+  <img src="https://github-readme-stats-one-nu-92.vercel.app/api?username=naysareo&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-stats-one-nu-92.vercel.app/api?user=naysareo&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats-one-nu-92.vercel.app/api/top-langs/?username=naysareo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <hr>
