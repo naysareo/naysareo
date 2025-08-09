@@ -2,7 +2,7 @@
   <span style="font-size: 3em;">Welcome! 👋</span>
 </h1>
 <p align="center">
-  <img src="https://applescoop.org/image/wallpapers/mac/minimalist-sunset-over-mountains-landscape-top-rated-most-downloaded-free-download-wallpapers-for-macbook-pro-and-macbook-air-and-microsoft-windows-desktop-pcs-4k-07-12-2024-1733638602-hd-wallpaper.webp" alt="Banner" />
+  <img src="https://i.pinimg.com/1200x/92/42/d9/9242d9ef0ba2d70e74a1997bbf4960d7.jpg" alt="Banner" />
 </p>
 
 <p align="center">
